@@ -1,0 +1,6 @@
+name: Modulo 1_Actividad 4
+channels:
+  - conda-forge
+dependecies:
+  - python = 3
+  - obspy >=1.2.0
